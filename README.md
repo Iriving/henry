@@ -1,2 +1,1 @@
-# henry
-Este repositorio es creado para el curso de henry
+este proyecto es para clonar de github a mi pc
